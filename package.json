@@ -17,7 +17,7 @@
     "@radix-ui/react-slot": "^1.1.2",
     "@sentry/nextjs": "^9.10.1",
     "@zegocloud/zego-uikit-prebuilt": "^2.14.3-beta",
-    "className-variance-authority": "^0.7.1",
+    "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "convex": "^1.21.0",
     "emoji-picker-react": "^4.12.2",
