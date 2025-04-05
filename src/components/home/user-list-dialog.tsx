@@ -96,8 +96,8 @@ const UserListDialog = () => {
 		<Dialog>
 			<DialogTrigger>
 				<Button className="align-center justify-center ml-2 md:ml-1 dark:bg-gray-700 dark:text-white text-black dark:hover:bg-gray-600 hover:bg-white bg-gray-300">
-					<div className="block sm:block md:hidden lg:block">New</div>
-				<MessageSquareDiff size={20} className=" dark:text-white text-black lg:ml-2 md:ml-0 sm:ml-2"/>
+					<div className="block md:hidden lg:block">New</div>
+				<MessageSquareDiff size={20} className=" dark:text-white text-black lg:ml-2 md:ml-0 ml-2"/>
 				</Button>
 			</DialogTrigger>
 			<DialogContent>
