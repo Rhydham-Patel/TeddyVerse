@@ -8,7 +8,7 @@ const countSelect = document.getElementById("count-select");
 const ratioSelect = document.getElementById("ratio-select");
 const gridGallery = document.querySelector(".gallery-grid");
 
-const API_KEY = "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";
+const API_KEY = "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";
 
 const examplePrompts = [
 "A magic forest with glowing plants and fairy homes among giant mushrooms",
